@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "82747900809",
+    "firebase_url": "https://starton-labs.firebaseio.com",
+    "project_id": "starton-labs",
+    "storage_bucket": "starton-labs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82747900809:android:33944c3fc40ac91cba5758",
+        "android_client_info": {
+          "package_name": "com.chaitanya_munje.startoonlabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82747900809-326svuckafdihmh7pq0bqao8hqqq3o6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqgt27zdtMJ9WhA6pQdPMPE_cDbuUEIXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82747900809-326svuckafdihmh7pq0bqao8hqqq3o6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
